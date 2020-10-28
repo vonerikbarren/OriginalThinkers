@@ -18,7 +18,7 @@ export default createMuiTheme({
     },
     background: {
       paper: "white",
-      default: "purple"
+      default: "lightGrey "
     }
   },
 
